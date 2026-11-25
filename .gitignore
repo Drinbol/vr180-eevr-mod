@@ -1,0 +1,10 @@
+# 素材不入库（blend 工程/参考图/遮罩图）
+*.blend
+*.blend1
+*.jpg
+*.png
+
+__pycache__/
+.env
+.idea/
+*:Zone.Identifier
